@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-#ScreenShot
+# ScreenShot
 
 ![ScreenShot Gif](http://g.recordit.co/OYyaP2nJH6.gif)
 ![]()
