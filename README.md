@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 #ScreenShot
 
-![]()
+![ScreenShot Gif](http://g.recordit.co/OYyaP2nJH6.gif)
 ![]()
